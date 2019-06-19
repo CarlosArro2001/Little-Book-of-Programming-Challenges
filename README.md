@@ -6,6 +6,7 @@
 
 ### Noteable errors and issues 
 ##### Considering the fact that this is written in C some might programs might be hard to understand especially for beginners , as well as that there has been crashes and hidden errors specifically with the pointers. 
+##### The days.c file is not the correct program as to put it simply I do not know how to do it.
 
 ### Note
 #### The PDF for the booklet is uploaded here also incase you don't have a hard/soft copy of it.
